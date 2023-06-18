@@ -1,6 +1,6 @@
 # pythonquestions
 
-**Basic Python Program - I**
+> **Basic Python Program - I**
 
 1. write a python program to add two numbers
 2. Write a python program to calculate the square root of any number.
@@ -12,34 +12,60 @@
 8. Write a python to find the minimum and maximum in between two numbers.
 9. Write a python program to calculate the simple interest.
 10. Write a python program to check the given number is prime or not.
+
 Write a python program to check the given number is odd or not.
+
 Write a python program to find all the prime number within a range.
+
 Write a python program to check the given year is leap year or not.
+
 Write a python program to find the largest among three number.
+
 Write a python program to display the multiplication table of a given number.
+
 Write a python program to convert a decimal number to hexadecimal and octal.
+
 Write a python program to solve the quadratic equation.
+
 Write a python program to convert the character of a string into the equivalent ASCII character string.
+
 Write a python program to find the sum of squares of first N natural number.
+
 Write a python program to find the cube sum of first N natural number.
 
-**Basic Python Program – II**
+> **Basic Python Program – II**
 
 Write a python program to check the given number is Fibonacci number or not.
+
 Write a python program to show N-th fibonacci series.
+
 Write a python program to check given number is armstrong number or not.
+
 Write a python program to check a number is special number or not.
+
 Write a python program to calculate the factorial of number.
+
 Write a python program to caculate the factorial of number using recursion.
+
 Write a python program to generate N-th fibonacci series using recursion.
+
 Write a python program to calculate LCD of given numbers
+
 Write a python program to calculate the GCD of given numbers.
+
 Write a python program to find all the happy number in between 1 to 100.
+
 Write a python program the given number is Hardy-Ramanujan number or not.
+
 Write a python program to find that the given number is Harshad number or not.
+
 Write a python program to find that the given number is a Disarium/unhappy number or not.
+
 Write a python program to find all the pronic numbers in between 1 to 100.
-Python Program -III (List, string ,dictionary, Tuple and array)
+
+
+> **Python Program -III (List, string ,dictionary, Tuple and array)**
+
 
 Write a python program to count and display the number of elements in the list.
 
@@ -123,9 +149,8 @@ Writea python program to find the substring in a string.
 
 Write a python program to find the uncommon word from two strings.
 
-Python Program -IV (Files)
 
-Python Program -V (Regular expression)
+>**Python Program -V (Regular expression)**
 
 Write a python program to count the number of sentences in a string.
 Write a python program to extraact the dates which followed by Month (in words).
