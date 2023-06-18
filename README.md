@@ -152,14 +152,26 @@ Write a python program to find the uncommon word from two strings.
 
 >**Python Program -V (Regular expression)**
 
+
 Write a python program to count the number of sentences in a string.
+
 Write a python program to extraact the dates which followed by Month (in words).
+
 Write a python program to extract the mobile numbers from the file.
+
 Write a python program to find a specific pattern in a given file.
+
 Write a python program whiich will find the maximum and minimum occuring number in a given string.
+
 Write a python program to find the frequencies of each number in a text file.
+
 Write a python program to find the word and character frequency and present in a dataframe.
+
 Write a python program to find the word where uppercase letter followd lowercase.
+
 Write a python program to remove the all the character from a given string exept letters and numbers.
+
 Write a python program to find the email id from the given string.
+
 Write a python program to find the website address from a given string.
+
